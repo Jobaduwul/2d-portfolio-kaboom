@@ -4,7 +4,7 @@ export const dialogueData = {
   pc: `This is my PC. I work mostly in Unity 3D Engine, Unreal Engine and Godot Engine.
     I've made a couple of games in that language. I also like C# and C++. Anyway regardless of the language, I just love to make and play games.
     Here is my <a href="https://github.com/Jobaduwul" target="_blank">Github</a> and <a href="https://www.linkedin.com/in/jobaduwul/" target="_blank">Linkedin</a>`,
-  "cs-degree": `This is my academics certificates. I hung it on the wall because I'm proud of it. School: SFX Greenherald Int'l School (2006 - 2020). University: Islamic University of Technology (2021 - present).`,
+  "cs-degree": `This is my academics certificates. I hung it on the wall because I'm proud of it.\nSchool: SFX Greenherald Int'l School (2006 - 2020).\nUniversity: Islamic University of Technology (2021 - present).`,
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
   I also love to watch videos on YouTube. (If you like the content)
   You'll learn how I built this portfolio you're currently playing through <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>!`,
